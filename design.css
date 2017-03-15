@@ -59,7 +59,7 @@ body{
 .titletext{
 	max-width: 75%;
 	max-height: 50%;
-	margin: auto 0px;
+	margin: auto 0;
  	font-size: 24px;
 	color: white;
 	text-align:center;
@@ -67,7 +67,7 @@ body{
 
 .titletext h1{
 	font-family: "Poppins", sans-serif;
-	text-shadow: 2px 3px black;
+	text-shadow: 2px 2px black;
 }
 
 .about{
@@ -81,7 +81,7 @@ body{
 	height: 100%;
 	text-align: center;
 	color: white;
-	text-shadow: 3px 2px black;
+	text-shadow: 2px 2px black;
 }
 
 .abouttext{
